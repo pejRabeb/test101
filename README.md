@@ -1,3 +1,5 @@
 # test101
 
-whatever blablabla
+cd test101
+git checkout -b test
+
