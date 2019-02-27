@@ -1,2 +1,2 @@
 # test101
-git status
+$ git status
